@@ -23,4 +23,4 @@ Output size: 1500x300
 | --- | --- |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/0-default.jpg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/0-converted.jpg?raw=true) |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/1-default.jpg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/1-converted.jpg?raw=true) |
-| ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-default.jpg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-converted.jpg?raw=true) |
+| ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-default.jpeg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-converted.jpeg?raw=true) |
