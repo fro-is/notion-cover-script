@@ -23,6 +23,6 @@ Output size: 1500x300
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/1-default.jpg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/1-converted.jpg?raw=true) |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-default.jpeg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/2-converted.jpeg?raw=true) |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/3-default.jpg?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/3-converted.jpg?raw=true) |
-| ### Bad Examples |
+| **Bad Examples** |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/4-default.png?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/4-converted.png?raw=true) |
 | ![image-default](https://github.com/tpfrois/notion-cover-script/blob/main/images/5-default.png?raw=true) | ![image-converted](https://github.com/tpfrois/notion-cover-script/blob/main/images/5-converted.png?raw=true) |
