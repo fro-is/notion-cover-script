@@ -1,5 +1,5 @@
 # notion-cover-script
-Script to create notion cover from an image.
+Script to create a [**Notion**](https://www.notion.so/) cover from an image.
 
 ## Usage
 
